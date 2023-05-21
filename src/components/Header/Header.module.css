@@ -1,0 +1,87 @@
+.Header{
+    display: flex;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 60px;
+    width: 1000px;
+    background: #283043;
+}
+
+.Header_white{
+    display: flex;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 60px;
+    width: 1000px;
+    background: #f4f7fe;
+}
+
+.input{
+    background: #22272b;
+    color: white ;
+    border: none;
+    border-radius: 6px;
+    width: 400px;
+    height: 25px;
+}
+.input_white{
+    background: white;
+    color: #634d9f;
+    border: none;
+    border-radius: 6px;
+    width: 400px;
+    height: 25px;
+}
+
+
+
+.Header input:hover{
+    cursor: pointer;
+}
+
+.avatar img{
+    border-radius: 15px;
+    height: 30px;
+}
+
+.container {
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.naw_wrapper {
+    display: flex;
+
+}
+
+.flex {
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    width: 100px;
+    display: flex;
+
+}
+
+.box_logo{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.box_logo_white{
+    text-decoration: none;
+    color: #193364;
+    font-size: 40px;
+}
+
+
+.icon{
+    color: darkslategray;
+    font-size: 20px;
+}
+
+
+

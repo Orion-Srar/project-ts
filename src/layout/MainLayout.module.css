@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://www.plex.tv/wp-content/uploads/2021/04/plex-splash-screen-04-30-21-new-1440x810.png");
+    margin: 0;
+}
+
+.MainLayout{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

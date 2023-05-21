@@ -1,0 +1,56 @@
+.wrap{
+    display: flex;
+    background: #22272b;
+    color: white ;
+    width: 1000px;
+    height: 560px;
+    margin-bottom: 50px;
+    border-radius: 0 0 20px 20px;
+
+}
+
+
+.background img{
+    position: absolute;
+    opacity: 0.3;
+    width: 1000px;
+    border-radius: 0 0 20px 20px;
+
+}
+
+.img img{
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+
+}
+
+.img{
+    display: flex;
+    z-index: 1;
+    justify-content: center;
+    width: 300px;
+    margin-top: 20px;
+
+}
+
+.text_container{
+    z-index: 1;
+    margin-top: 20px;
+    width: 700px;
+}
+
+.title{
+    font-family: fantasy;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.badge{
+    font-size: 18px;
+    margin-right: 10px;
+    padding: 1px 5px;
+    border-radius: 10px;
+    background: #d0aa49;
+}
+

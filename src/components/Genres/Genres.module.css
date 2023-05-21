@@ -1,0 +1,40 @@
+.Genres{
+    display: flex;
+    flex-wrap: wrap;
+    background: #363c49;
+    width: 1000px;
+}
+
+.Genres_white{
+    display: flex;
+    flex-wrap: wrap;
+    background: #ebeff8;
+    width: 1000px;
+}
+
+.genre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #bbbb9e;
+    height: 45px;
+    width: 100px;
+}
+.genre_white {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3b5772;
+    height: 45px;
+    width: 100px;
+}
+
+.genre:hover{
+    color: #d0aa49;
+    cursor: pointer;
+}
+
+.genre_white:hover{
+    color: #d0aa49;
+    cursor: pointer;
+}

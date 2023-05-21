@@ -1,0 +1,45 @@
+.Card_wrap_white{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin: 15px 10px;
+    width: 180px;
+    height: 310px;
+    color: #3b5772;
+}
+
+.Card_wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin: 15px 10px;
+    width: 180px;
+    height: 310px;
+    color: #bbbb9e;
+
+}
+
+.Card_wrap img{
+    border-radius: 10px;
+    width: 180px;
+    height: 250px;
+}
+.Card_wrap_white img{
+    border-radius: 10px;
+    width: 180px;
+    height: 250px;
+}
+
+.Card_wrap img:hover{
+    width: 185px;
+    height: 255px;
+}
+
+.Card_wrap_white img:hover{
+    width: 185px;
+    height: 255px;
+}

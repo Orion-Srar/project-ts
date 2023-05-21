@@ -1,0 +1,15 @@
+.MoviesList{
+    width: 1000px;
+    background: #22272b;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.MoviesList_white{
+    width: 1000px;
+    background: #fdfdfe;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
